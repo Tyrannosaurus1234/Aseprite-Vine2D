@@ -1,0 +1,16 @@
+{
+  "name": "vine2d-palette",
+  "displayName": "Vine2D Palette",
+  "description": "Palette by Vine2D",
+  "version": "1.0",
+  "author": { "name": "Vine2D", "url": "https://twitter.com/vine2d" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "vine2d", "path": "./vine2d.gpl" }
+    ]
+  }
+}
